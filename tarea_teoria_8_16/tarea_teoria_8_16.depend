@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562526859 source:c:\users\puky\desktop\tarea_teoria_8_16\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

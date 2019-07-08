@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1562547509 source:c:\users\puky\desktop\tarea_teoria_10_9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"areas.h"
+
+1562547509 source:c:\users\puky\desktop\tarea_teoria_10_9\areas.c
+	"areas.h"
+
+1562547509 c:\users\puky\desktop\tarea_teoria_10_9\areas.h
+
